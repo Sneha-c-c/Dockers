@@ -1,10 +1,6 @@
-# 🐳 Docker Mastery with Sneha
+# 🐳 Dockers
 
-A complete learning journey from **Docker beginner to advanced**, explained using real-life analogies, practical examples, and powerful tricks.
 
----
-
-## 📚 Topics Covered
 
 ### ✅ 1. What is Docker?
 > Docker is like a **container truck** 🚛 – it packages software, dependencies, and config together to run anywhere.
@@ -131,7 +127,7 @@ CMD ["node", "index.js"]
 
 ---
 
-## 🚀 Bonus Tips
+## 🚀 Note
 
 - Use **`alpine`** images for smaller size
 - Always define `.dockerignore`
